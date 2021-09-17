@@ -16,6 +16,20 @@ Diamond sponsor:
   </tbody>
 </table>
 
+Gold sponsor:
+
+<table>
+  <tbody>
+    <tr>
+	    <td align="center" valign="middle">
+        <a href="http://bit.ly/30xsnsC" target="_blank">
+          <img width="148px" src="https://user-images.githubusercontent.com/3391906/65251792-dd848800-daef-11e9-8857-637a48048cda.png">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 Table of contents:
 
 - TBA
@@ -36,3 +50,4 @@ If you'd like to support me and my projects, please consider:
 Additional resources:
 
 - My YouTube channel is a great place to learn advanced C# concepts. Make sure you subscribe and turn on the bell notifications - [Code It Up with Ivo](https://www.youtube.com/channel/UCP5Ons7fK3yKhX6lhc9XcfQ)
+- ASP.NET Core Microservices Bundle - a series of courses about architecture, domain-driven design, containers, clusters, and many more - [SoftUni Module](https://softuni.bg/modules/124/asp-net-core-microservices-complete-bundle-september-2021/1309) 
