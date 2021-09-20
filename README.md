@@ -22,7 +22,7 @@ Gold sponsor:
   <tbody>
     <tr>
 	    <td align="center" valign="middle">
-        <a href="http://bit.ly/30xsnsC" target="_blank">
+        <a href="https://smartit.bg/?utm_source=ivaylo-kenov" target="_blank">
           <img width="148px" src="https://user-images.githubusercontent.com/3391906/65251792-dd848800-daef-11e9-8857-637a48048cda.png">
         </a>
       </td>
