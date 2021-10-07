@@ -29,7 +29,6 @@ namespace CommanderGQL
         public void ConfigureServices(IServiceCollection services)
         {
             services
-                .AddScoped<AppDbContext>()
                 .AddPooledDbContextFactory<AppDbContext>(opt => opt.UseSqlServer
             (Configuration.GetConnectionString("CommandConStr")));
 
@@ -50,7 +49,6 @@ namespace CommanderGQL
                 
         }
 
-        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())

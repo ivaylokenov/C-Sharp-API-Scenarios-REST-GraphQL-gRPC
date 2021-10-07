@@ -33,7 +33,8 @@ namespace CommanderGQL.GraphQL
             CancellationToken cancellationToken
             ) 
             {
-                var platform = new Platform{
+                var platform = new Platform
+                {
                     Name = input.Name
                 };
 
@@ -53,10 +54,12 @@ namespace CommanderGQL.GraphQL
         /// <returns>The added <see cref="Command"/>.</returns>
         [UseDbContext(typeof(AppDbContext))]
         [GraphQLDescription("Adds a command.")]
-        public async Task<AddCommandPayload> AddCommandAsync(AddCommandInput input,
+        public async Task<AddCommandPayload> AddCommandAsync(
+            AddCommandInput input,
             [ScopedService] AppDbContext context)
             {
-                var command = new Command{
+                var command = new Command
+                {
                     HowTo = input.HowTo,
                     CommandLine = input.CommandLine,
                     PlatformId = input.PlatformId
