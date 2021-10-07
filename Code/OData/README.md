@@ -1,0 +1,1 @@
+Addapted from: https://github.com/OData/AspNetCoreOData
