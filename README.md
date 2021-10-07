@@ -32,7 +32,18 @@ Gold sponsor:
 
 Table of contents:
 
-- TBA
+- About Code It Up
+- Why API Scenarios?
+- History Lesson
+- SOAP In a Nutshell 
+- REST In a Nutshell
+- OData In a Nutshell 
+- GraphQL In More Detail
+- gRPC in More Detail
+- API Types
+- General Advice for API Design
+- API Styles Comparison
+- Sample Scenarios
 
 If you'd like to support me and my projects, please consider:
 
